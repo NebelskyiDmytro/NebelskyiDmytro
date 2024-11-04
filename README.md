@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on a FaceitWebHook web-app<br>🌱 Currently learning for some new Vue<br>💬 DM me free
+🔭 Working on about some cool Playwright framework<br>🌱 Give me some rain plz<br>💬 DM me free
 
 
 ## 🌐 Socials:
