@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on about some cool Playwright framework<br>🌱 Give me some rain plz<br>💬 DM me free
+💻 Developing personal Faceit integration flatform
 
 
 ## 🌐 Socials:
