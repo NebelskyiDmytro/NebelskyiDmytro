@@ -7,16 +7,9 @@ I’m a **Senior Automation QA Engineer** with over **7 years of experience** in
 - Gambling 🎰
 
 ### 🧪 Technical Skills
-- **Frameworks**: Playwright, Selenium, TestNG, JUnit  
-- **Languages**: Java, JavaScript, TypeScript  
-- **Mobile**: Appium (iOS & Android)  
-- **Testing Types**: REST API, UI, E2E, Integration, TDD, BDD  
-- **Reporting**: Allure  
-- **CI/CD Tools**: Jenkins, Azure DevOps, TeamCity, Docker  
-
-### 🛠️ Highlights
-- Built custom test automation frameworks from scratch  
-- Strong communication in Agile/Scrum environments with international teams
+- **Frameworks**: Playwright, Selenium, TestNG, JUnit
+- **Languages**: Java, JavaScript, TypeScript, Python
+- **CI/CD Tools**: Jenkins, Azure DevOps, TeamCity, Docker
 
 My website: [nebelskyi.dev](https://nebelskyi.dev)
 
