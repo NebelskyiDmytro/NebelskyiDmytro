@@ -11,6 +11,8 @@ I’m a **Senior Automation QA Engineer** with over **7 years of experience** in
 - **Languages**: Java, JavaScript, TypeScript, Python
 - **CI/CD Tools**: Jenkins, Azure DevOps, TeamCity, Docker
 
+Developer of [PUBG Stats Tracker](https://pubgxstats.com/)
+
 My website: [nebelskyi.dev](https://nebelskyi.dev)
 
 # 💻 Tech Stack:
