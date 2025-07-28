@@ -1,12 +1,12 @@
 I’m a **Senior Automation QA Engineer** with over **7 years of experience** in designing, writing, and maintaining automated tests and frameworks.
 
-### 💼 Domain Expertise
+### 📌 Domains
 - Healthcare
 - Fintech
 - Streaming Platforms
 - Gambling
 
-### 🧪 Technical Skills
+### 📌 Technical Skills
 - **Frameworks**: Playwright, Selenium, TestNG, JUnit
 - **Languages**: Java, JavaScript, TypeScript, Python
 - **CI/CD Tools**: Jenkins, Azure DevOps, TeamCity, Docker
