@@ -1,4 +1,4 @@
-I’m a **Senior Automation QA Engineer** with over **7 years of experience** in designing, writing, and maintaining automated tests and frameworks.
+I’m a **Senior Automation QA Engineer** with over **8 years of experience** in designing, writing, and maintaining automated tests and frameworks.
 
 ### 📌 Domains
 - Healthcare
